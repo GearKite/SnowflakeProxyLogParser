@@ -27,3 +27,6 @@ Provide the path to a log file as the first argument
 python3 snowflake_proxy_log_parser.py /path/to/logs.txt
 ```
 
+## Output
+
+![plot](https://github.com/user-attachments/assets/95d4a545-896c-4d3f-b32f-f21cc55e7293)
